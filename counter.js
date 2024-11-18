@@ -21,3 +21,5 @@ we got elements by their id , declared as constants
 declared a variabe count as 0 ,
 made function of each variable to get text content on click and display value,
 */
+
+//hello gittu
